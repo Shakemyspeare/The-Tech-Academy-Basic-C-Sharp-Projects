@@ -1,0 +1,13 @@
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\bin\Debug\netcoreapp3.1\Step 186.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\bin\Debug\netcoreapp3.1\Step 186.deps.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\bin\Debug\netcoreapp3.1\Step 186.runtimeconfig.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\bin\Debug\netcoreapp3.1\Step 186.runtimeconfig.dev.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\bin\Debug\netcoreapp3.1\Step 186.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\bin\Debug\netcoreapp3.1\Step 186.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.AssemblyInfo.cs
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 186\obj\Debug\netcoreapp3.1\Step 186.genruntimeconfig.cache
