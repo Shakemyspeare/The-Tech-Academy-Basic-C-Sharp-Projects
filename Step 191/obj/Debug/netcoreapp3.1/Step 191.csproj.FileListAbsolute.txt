@@ -1,0 +1,13 @@
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.AssemblyInfo.cs
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\bin\Debug\netcoreapp3.1\Step 191.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\bin\Debug\netcoreapp3.1\Step 191.deps.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\bin\Debug\netcoreapp3.1\Step 191.runtimeconfig.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\bin\Debug\netcoreapp3.1\Step 191.runtimeconfig.dev.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\bin\Debug\netcoreapp3.1\Step 191.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\bin\Debug\netcoreapp3.1\Step 191.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 191\obj\Debug\netcoreapp3.1\Step 191.genruntimeconfig.cache
