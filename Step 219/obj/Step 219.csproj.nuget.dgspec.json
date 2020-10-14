@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zack\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Step 216\\Step 216.csproj": {}
+    "C:\\Users\\Zack\\source\\repos\\Step 219\\Step 219.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zack\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Step 216\\Step 216.csproj": {
+    "C:\\Users\\Zack\\source\\repos\\Step 219\\Step 219.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zack\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Step 216\\Step 216.csproj",
-        "projectName": "Step 216",
-        "projectPath": "C:\\Users\\Zack\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Step 216\\Step 216.csproj",
+        "projectUniqueName": "C:\\Users\\Zack\\source\\repos\\Step 219\\Step 219.csproj",
+        "projectName": "Step 219",
+        "projectPath": "C:\\Users\\Zack\\source\\repos\\Step 219\\Step 219.csproj",
         "packagesPath": "C:\\Users\\Zack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zack\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Step 216\\obj\\",
+        "outputPath": "C:\\Users\\Zack\\source\\repos\\Step 219\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zack\\AppData\\Roaming\\NuGet\\NuGet.Config",

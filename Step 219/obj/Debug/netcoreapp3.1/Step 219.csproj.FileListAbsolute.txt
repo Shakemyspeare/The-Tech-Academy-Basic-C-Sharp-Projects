@@ -1,0 +1,13 @@
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.AssemblyInfo.cs
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\Step 219\bin\Debug\netcoreapp3.1\Step 219.exe
+C:\Users\Zack\source\repos\Step 219\bin\Debug\netcoreapp3.1\Step 219.deps.json
+C:\Users\Zack\source\repos\Step 219\bin\Debug\netcoreapp3.1\Step 219.runtimeconfig.json
+C:\Users\Zack\source\repos\Step 219\bin\Debug\netcoreapp3.1\Step 219.runtimeconfig.dev.json
+C:\Users\Zack\source\repos\Step 219\bin\Debug\netcoreapp3.1\Step 219.dll
+C:\Users\Zack\source\repos\Step 219\bin\Debug\netcoreapp3.1\Step 219.pdb
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.dll
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.pdb
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.genruntimeconfig.cache
+C:\Users\Zack\source\repos\Step 219\obj\Debug\netcoreapp3.1\Step 219.csprojAssemblyReference.cache
