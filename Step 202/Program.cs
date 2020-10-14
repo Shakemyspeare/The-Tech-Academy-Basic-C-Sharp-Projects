@@ -134,9 +134,19 @@ namespace Step_202
             List<String> roommates = new List<string>();
 
             //creating a loop to go through the list of names and display them to the console
+            foreach (string name in names)
+            {
+                Console.WriteLine(name);
+                if (roommates.Contains(name))
+                {
+                    Console.WriteLine(name + " has already in the list!");
+                }
+                else
+                {
+                    roommates.Add(name);
+                }
 
-
-
+            }
             Console.ReadLine();
         }
     }
