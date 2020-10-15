@@ -1,0 +1,12 @@
+C:\Users\Zack\source\repos\Step 229\obj\Debug\netcoreapp3.1\Step 229.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\Step 229\obj\Debug\netcoreapp3.1\Step 229.AssemblyInfo.cs
+C:\Users\Zack\source\repos\Step 229\obj\Debug\netcoreapp3.1\Step 229.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\Step 229\bin\Debug\netcoreapp3.1\Step 229.exe
+C:\Users\Zack\source\repos\Step 229\bin\Debug\netcoreapp3.1\Step 229.deps.json
+C:\Users\Zack\source\repos\Step 229\bin\Debug\netcoreapp3.1\Step 229.runtimeconfig.json
+C:\Users\Zack\source\repos\Step 229\bin\Debug\netcoreapp3.1\Step 229.runtimeconfig.dev.json
+C:\Users\Zack\source\repos\Step 229\bin\Debug\netcoreapp3.1\Step 229.dll
+C:\Users\Zack\source\repos\Step 229\bin\Debug\netcoreapp3.1\Step 229.pdb
+C:\Users\Zack\source\repos\Step 229\obj\Debug\netcoreapp3.1\Step 229.dll
+C:\Users\Zack\source\repos\Step 229\obj\Debug\netcoreapp3.1\Step 229.pdb
+C:\Users\Zack\source\repos\Step 229\obj\Debug\netcoreapp3.1\Step 229.genruntimeconfig.cache
