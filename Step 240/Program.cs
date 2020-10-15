@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace Step_240
+namespace Step_237
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
+            employee.SayName();
+            employee.Quit();
+            Console.ReadLine();
         }
     }
 }
