@@ -11,10 +11,17 @@ namespace Step_220
             Console.WriteLine("Please choose a number in numeric format:");
             int toPass1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Choose another number if you want. It is not required:");
-            int toPass2 = Convert.ToInt32(Console.ReadLine());
-
-            int result = math.mathOperation(toPass1, toPass2);
-            Console.WriteLine("The result of " + toPass1 + " plus " + toPass2 + " equals " + result + "!");
+            if (Console.ReadLine() == "")
+            {
+                int result = math.mathOperation(toPass1);
+                Console.WriteLine("The result of " + toPass1 + "  5 equals " + result + "!");
+            }
+            else
+            {
+                int toPass2 = Convert.ToInt32(Console.ReadLine());
+                int result = math.mathOperation(toPass1, toPass2);
+                Console.WriteLine("The result of " + toPass1 + " plus " + toPass2 + " equals " + result + "!");
+            }
 
             Console.ReadLine();
         }

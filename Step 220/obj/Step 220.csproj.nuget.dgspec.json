@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zack\\source\\repos\\Step 220\\Step 220.csproj": {}
+    "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 220\\Step 220.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zack\\source\\repos\\Step 220\\Step 220.csproj": {
+    "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 220\\Step 220.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zack\\source\\repos\\Step 220\\Step 220.csproj",
+        "projectUniqueName": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 220\\Step 220.csproj",
         "projectName": "Step 220",
-        "projectPath": "C:\\Users\\Zack\\source\\repos\\Step 220\\Step 220.csproj",
+        "projectPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 220\\Step 220.csproj",
         "packagesPath": "C:\\Users\\Zack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zack\\source\\repos\\Step 220\\obj\\",
+        "outputPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 220\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zack\\AppData\\Roaming\\NuGet\\NuGet.Config",
