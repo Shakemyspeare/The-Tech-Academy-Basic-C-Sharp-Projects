@@ -24,3 +24,16 @@ C:\Users\Zack\Desktop\Basic_C#_Programs\Step 240\bin\Debug\netcoreapp3.1\Step 23
 C:\Users\Zack\Desktop\Basic_C#_Programs\Step 240\bin\Debug\netcoreapp3.1\Step 237.dll
 C:\Users\Zack\Desktop\Basic_C#_Programs\Step 240\bin\Debug\netcoreapp3.1\Step 237.pdb
 C:\Users\Zack\Desktop\Basic_C#_Programs\Step 240\obj\Debug\netcoreapp3.1\Step 237.genruntimeconfig.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\bin\Debug\netcoreapp3.1\Step 237.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\bin\Debug\netcoreapp3.1\Step 237.deps.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\bin\Debug\netcoreapp3.1\Step 237.runtimeconfig.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\bin\Debug\netcoreapp3.1\Step 237.runtimeconfig.dev.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\bin\Debug\netcoreapp3.1\Step 237.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\bin\Debug\netcoreapp3.1\Step 237.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.AssemblyInfo.cs
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 248\obj\Debug\netcoreapp3.1\Step 237.genruntimeconfig.cache

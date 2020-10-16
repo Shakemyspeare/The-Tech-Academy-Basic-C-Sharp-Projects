@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Step_237
 {
@@ -11,12 +12,31 @@ namespace Step_237
             //employee.Quit();
             //Console.ReadLine();
 
-            Employee<string> employee1 = new Employee<string>();
-            employee1.things.Add("Zack");
-            employee1.things.Add("Irine");
-            employee1.things.Add("Mojo");
 
-            Console.WriteLine(employee1);
+            Employee<string> employee = new Employee<string>();
+            employee.things = new List<string>();
+            employee.things.Add("Zack");
+            employee.things.Add("Irine");
+            employee.things.Add("Mojo");
+
+
+
+            Employee<int> employee1 = new Employee<int>();
+            employee1.things = new List<int>();
+            employee1.things.Add(15);
+            employee1.things.Add(75);
+            employee1.things.Add(32);
+
+            foreach (string name in employee.things)
+            {
+                Console.WriteLine(name);
+            }
+            foreach (int num in employee1.things)
+            {
+                Console.WriteLine(num);
+            }
+
+
             Console.ReadLine();
         }
 

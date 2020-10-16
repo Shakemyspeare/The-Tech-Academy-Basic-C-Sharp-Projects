@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 240\\Step 237.csproj": {}
+    "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 248\\Step 237.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 240\\Step 237.csproj": {
+    "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 248\\Step 237.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 240\\Step 237.csproj",
+        "projectUniqueName": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 248\\Step 237.csproj",
         "projectName": "Step 237",
-        "projectPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 240\\Step 237.csproj",
+        "projectPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 248\\Step 237.csproj",
         "packagesPath": "C:\\Users\\Zack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 240\\obj\\",
+        "outputPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 248\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zack\\AppData\\Roaming\\NuGet\\NuGet.Config",
