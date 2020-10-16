@@ -11,11 +11,7 @@ namespace Step_245
         }
         Employee employee = new Employee();
 
-        public static bool operator ==(Employee employee, Employee employee1)
-        {
-            if (employee.ID == employee1.ID)
-            {
-                return false;
+
             }
         }
 
