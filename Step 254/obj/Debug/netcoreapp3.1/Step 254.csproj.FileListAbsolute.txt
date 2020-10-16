@@ -1,0 +1,13 @@
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.AssemblyInfo.cs
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.csprojAssemblyReference.cache
+C:\Users\Zack\source\repos\Step 254\bin\Debug\netcoreapp3.1\Step 254.exe
+C:\Users\Zack\source\repos\Step 254\bin\Debug\netcoreapp3.1\Step 254.deps.json
+C:\Users\Zack\source\repos\Step 254\bin\Debug\netcoreapp3.1\Step 254.runtimeconfig.json
+C:\Users\Zack\source\repos\Step 254\bin\Debug\netcoreapp3.1\Step 254.runtimeconfig.dev.json
+C:\Users\Zack\source\repos\Step 254\bin\Debug\netcoreapp3.1\Step 254.dll
+C:\Users\Zack\source\repos\Step 254\bin\Debug\netcoreapp3.1\Step 254.pdb
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.dll
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.pdb
+C:\Users\Zack\source\repos\Step 254\obj\Debug\netcoreapp3.1\Step 254.genruntimeconfig.cache
