@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zack\\source\\repos\\Step 265\\Step 265.csproj",
+      "projectUniqueName": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 265\\Step 265.csproj",
       "projectName": "Step 265",
-      "projectPath": "C:\\Users\\Zack\\source\\repos\\Step 265\\Step 265.csproj",
+      "projectPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 265\\Step 265.csproj",
       "packagesPath": "C:\\Users\\Zack\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zack\\source\\repos\\Step 265\\obj\\",
+      "outputPath": "C:\\Users\\Zack\\Desktop\\Basic_C#_Programs\\Step 265\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zack\\AppData\\Roaming\\NuGet\\NuGet.Config",

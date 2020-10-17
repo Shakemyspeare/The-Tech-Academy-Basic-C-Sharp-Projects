@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.Tracing;
+using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Step_265
@@ -22,7 +23,8 @@ namespace Step_265
 
 
             List<Employee> employeeList = new List<Employee>() { employee, employee1, employee2, employee3, employee4, employee5, employee6, employee7, employee8, employee9 };
-            List<Employee> joeList = new List<Employee>();
+            List<Employee> joeList = employeeList.Where(x => x.firstName == "Joe").ToList();
+            List<Employee> newList = employeeList.Where(x => x.ID > 5).ToList();
             //foreach (Employee name in employeeList)
             //{
             //    if (name.firstName == "Joe")
