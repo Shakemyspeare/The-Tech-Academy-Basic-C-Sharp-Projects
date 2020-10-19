@@ -1,0 +1,13 @@
+C:\Users\Zack\source\repos\Step 290\bin\Debug\netcoreapp3.1\Step 290.exe
+C:\Users\Zack\source\repos\Step 290\bin\Debug\netcoreapp3.1\Step 290.deps.json
+C:\Users\Zack\source\repos\Step 290\bin\Debug\netcoreapp3.1\Step 290.runtimeconfig.json
+C:\Users\Zack\source\repos\Step 290\bin\Debug\netcoreapp3.1\Step 290.runtimeconfig.dev.json
+C:\Users\Zack\source\repos\Step 290\bin\Debug\netcoreapp3.1\Step 290.dll
+C:\Users\Zack\source\repos\Step 290\bin\Debug\netcoreapp3.1\Step 290.pdb
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.csprojAssemblyReference.cache
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.AssemblyInfo.cs
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.dll
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.pdb
+C:\Users\Zack\source\repos\Step 290\obj\Debug\netcoreapp3.1\Step 290.genruntimeconfig.cache
