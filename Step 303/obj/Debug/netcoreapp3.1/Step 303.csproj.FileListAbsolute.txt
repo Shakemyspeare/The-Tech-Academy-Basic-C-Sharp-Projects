@@ -1,0 +1,13 @@
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.csprojAssemblyReference.cache
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.AssemblyInfoInputs.cache
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.AssemblyInfo.cs
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.csproj.CoreCompileInputs.cache
+C:\Users\Zack\source\repos\Step 303\bin\Debug\netcoreapp3.1\Step 303.exe
+C:\Users\Zack\source\repos\Step 303\bin\Debug\netcoreapp3.1\Step 303.deps.json
+C:\Users\Zack\source\repos\Step 303\bin\Debug\netcoreapp3.1\Step 303.runtimeconfig.json
+C:\Users\Zack\source\repos\Step 303\bin\Debug\netcoreapp3.1\Step 303.runtimeconfig.dev.json
+C:\Users\Zack\source\repos\Step 303\bin\Debug\netcoreapp3.1\Step 303.dll
+C:\Users\Zack\source\repos\Step 303\bin\Debug\netcoreapp3.1\Step 303.pdb
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.dll
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.pdb
+C:\Users\Zack\source\repos\Step 303\obj\Debug\netcoreapp3.1\Step 303.genruntimeconfig.cache
