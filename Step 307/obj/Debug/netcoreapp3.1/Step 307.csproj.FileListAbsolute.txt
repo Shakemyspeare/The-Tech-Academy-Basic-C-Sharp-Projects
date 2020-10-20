@@ -1,0 +1,13 @@
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\bin\Debug\netcoreapp3.1\Step 307.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\bin\Debug\netcoreapp3.1\Step 307.deps.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\bin\Debug\netcoreapp3.1\Step 307.runtimeconfig.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\bin\Debug\netcoreapp3.1\Step 307.runtimeconfig.dev.json
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\bin\Debug\netcoreapp3.1\Step 307.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\bin\Debug\netcoreapp3.1\Step 307.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.AssemblyInfo.cs
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 307\obj\Debug\netcoreapp3.1\Step 307.genruntimeconfig.cache
