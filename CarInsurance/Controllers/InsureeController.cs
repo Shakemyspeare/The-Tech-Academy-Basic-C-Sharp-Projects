@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                GetQuote(insuree.DateOfBirth, insuree.CarYear, insuree.CarMake, insuree.CarModel, insuree.SpeedingTickets, insuree.DUI, insuree.CoverageType);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -115,7 +116,7 @@ namespace CarInsurance.Controllers
             return RedirectToAction("Index");
         }
 
-        public decimal getQuote(DateTime dob, int carYear, int carMake, bool dui, bool fullCoverage)
+        public decimal GetQuote(DateTime dob, int carYear, string carMake, string carModel, int speedingTicket, bool dui, bool fullCoverage)
         {
             decimal customQuote = 50;
 
@@ -125,24 +126,37 @@ namespace CarInsurance.Controllers
             if (age < 18)
             {
                 customQuote += 100;
-                return customQuote;
             }
             else if (age >18 || age < 26)
             {
-                customQuote += 50;
-                return customQuote;
+                customQuote += 50;               
             }
             else
             {
-                customQuote += 25;
-                return customQuote;
+                customQuote += 25;               
             }
-
             if (carYear > 2000 || carYear < 2015)
             {
-                customQuote += 25;
-                return customQuote;
+                customQuote += 25;          
             }
+            if (carMake == "Porche")
+            {
+                customQuote += 25;
+            }
+            if (carMake == "Porche" && carModel == "911 Carrera")
+            {
+                customQuote += 25;
+            }
+            customQuote += speedingTicket * 10;
+            if (dui == true)
+            {
+                customQuote += Decimal.Multiply(customQuote, .25m);
+            }
+            if (fullCoverage == true)
+            {
+                customQuote += Decimal.Multiply(customQuote, .50m);
+            }
+            return customQuote;
         }
 
         protected override void Dispose(bool disposing)
