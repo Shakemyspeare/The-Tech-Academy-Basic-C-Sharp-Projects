@@ -1,0 +1,7 @@
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\bin\Debug\Step 231.exe.config
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\bin\Debug\Step 231.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\bin\Debug\Step 231.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\obj\Debug\Step 231.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\obj\Debug\Step 231.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\obj\Debug\Step 231.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 231\obj\Debug\Step 231.pdb
