@@ -1,0 +1,12 @@
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\Step 451.exe.config
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\Step 451.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\Step 451.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\EntityFramework.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\EntityFramework.xml
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\obj\Debug\Step 451.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\obj\Debug\Step 451.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\obj\Debug\Step 451.csproj.CopyComplete
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\obj\Debug\Step 451.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 451\obj\Debug\Step 451.pdb
