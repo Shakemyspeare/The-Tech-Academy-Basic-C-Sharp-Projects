@@ -1,0 +1,7 @@
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\bin\Debug\Step 261.exe.config
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\bin\Debug\Step 261.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\bin\Debug\Step 261.pdb
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\obj\Debug\Step 261.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\obj\Debug\Step 261.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\obj\Debug\Step 261.exe
+C:\Users\Zack\Desktop\Basic_C#_Programs\Step 261\obj\Debug\Step 261.pdb

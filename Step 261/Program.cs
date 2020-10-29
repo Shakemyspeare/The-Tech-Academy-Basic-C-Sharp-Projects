@@ -8,14 +8,6 @@ namespace Step_261
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Please enter the current day of the week.");
-            DaysOfTheWeek day = Console.ReadLine();
-
-            
-        }
-
         public enum DaysOfTheWeek
         {
             Monday,
@@ -26,5 +18,32 @@ namespace Step_261
             Saturday,
             Sunday
         }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please enter the current day of the week.");
+            string day = Console.ReadLine();
+
+            DaysOfTheWeek daysOfTheWeek;
+
+            try
+            {
+                daysOfTheWeek = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), day);
+                Console.WriteLine(daysOfTheWeek);
+               
+            }
+            catch 
+            {
+                Console.WriteLine("Please enter an actual day of the week.");
+            }
+
+
+            Console.ReadLine();
+
+
+            
+        }
+
+
     }
 }
