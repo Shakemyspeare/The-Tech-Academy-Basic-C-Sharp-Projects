@@ -13,5 +13,16 @@ namespace Step_231
             int result = num / 2;
             Console.WriteLine(result);
         }
+
+        public void addTwo(int num, out int num1)
+        {
+            num1 = num + 2;
+        }
+
+        public decimal addTwo(decimal num, decimal num1)
+        {
+            decimal result = num + num1;
+            return (result);
+        }
     }
 }
