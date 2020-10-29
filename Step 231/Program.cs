@@ -26,6 +26,8 @@ namespace Step_231
             decimal userNum2 = Convert.ToInt32(Console.ReadLine());
             decimal result = math.addTwo(userNum1, userNum2);
             Console.WriteLine(result);
+            Console.WriteLine(Message.StaticMessage());
+            Console.ReadLine();
 
         }
     }
